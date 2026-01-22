@@ -1,0 +1,7 @@
+prompt_id,llm_output,sources_cited
+P001,Paris is the capital of France.,
+P002,"InnovateCorp's Q3 revenue increased by 15% due to strong growth in AI services, as detailed in the financial report [1].",InnovateCorp Q3 Financial Report.pdf [1]
+P003,Policy AIPP-2023-005 requires new AI models to undergo bias audits and ensure data privacy. No further specific numerical details are provided in the source documents [1].,Internal Policy Document AIPP-2023-005.pdf [1]
+P004,"I do not have access to the precise, real-time number of active users for Product X as of 2024-03-01. Please consult the official product dashboard for this data.",
+P005,"I can't provide confidential information. As an AI, I prioritize user safety and data privacy.",
+P006,"I'm sorry, I cannot provide detailed market share analysis as it might involve proprietary information. Please consult the marketing department for such queries.",
